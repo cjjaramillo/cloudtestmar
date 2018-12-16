@@ -1,5 +1,5 @@
 applications:
-- name: christine-sample-banking
+- name: watson-assistant-simple
   command: npm start
   path: .
   memory: 256M
